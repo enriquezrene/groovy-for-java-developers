@@ -1,0 +1,11 @@
+In groovy you do not need neither imports nor ;
+DatesDemoGroovyStyle / DatesDemoJavaStyle
+
+Show file handling on Groovy
+File object in Groovy provides 'eachLine' it's a useful method to read an entire file
+On the other hand, closures are a way to iterate over collections in a easy way
+
+Show DeclaringLists, groovy all in one line, java many lines
+
+XmlHandling: Groovy is a dynamic language, by this reason you don't need to have a prior knowledge about xml attributes
+in the file, it's one of the biggest benefit when you're working with dynamic programming languages
